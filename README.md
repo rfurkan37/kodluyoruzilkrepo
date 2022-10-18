@@ -5,15 +5,15 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/?_ga=2.40013738.980349
 ## Installation
 
 Öncelikle projeyi klonlayın. [https://github.com/rfurkan37/kodluyoruzilkrepo.git](https://github.com/rfurkan37/kodluyoruzilkrepo.git)
-'git clone https://github.com/rfurkan37/kodluyoruzilkrepo.git'
+`git clone https://github.com/rfurkan37/kodluyoruzilkrepo.git`
 
 ## Usage
 
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-'cd kodluyoruzilkrepo
-code.'
+`cd kodluyoruzilkrepo
+code.`
 
 ## Contributing
 
