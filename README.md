@@ -4,7 +4,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/?_ga=2.40013738.980349
 
 ## Installation
 
-Öncelikle projeyi klonlayın. [https://github.com/rfurkan37/kodluyoruzilkrepo.git](https://github.com/rfurkan37/kodluyoruzilkrepo.git)
+Öncelikle projeyi klonlayın. 
+[https://github.com/rfurkan37/kodluyoruzilkrepo.git](https://github.com/rfurkan37/kodluyoruzilkrepo.git)
+
 `git clone https://github.com/rfurkan37/kodluyoruzilkrepo.git`
 
 ## Usage
